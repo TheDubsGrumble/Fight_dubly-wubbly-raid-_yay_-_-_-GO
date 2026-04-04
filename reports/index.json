@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260403-221517-pmh5",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "dateStart": "2026-04-04T02:15:17.000Z",
+      "dateEnd": "2026-04-04T03:54:47.000Z",
+      "dateLabel": "4/3/2026, 10:15:17 PM - 4/3/2026, 11:54:47 PM",
+      "url": "https://TheDubsGrumble.github.io/Fight_dubly-wubbly-raid-_yay_-_-_-GO/?report=20260403-221517-pmh5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260328-205435-9lcs",
       "title": "Dub Grumble",
       "commanders": [
