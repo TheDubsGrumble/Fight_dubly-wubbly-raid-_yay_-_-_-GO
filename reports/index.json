@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260502-205149-d4z0",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "dateStart": "2026-05-03T00:51:49.000Z",
+      "dateEnd": "2026-05-03T02:22:18.000Z",
+      "dateLabel": "5/2/2026, 8:51:49 PM - 5/2/2026, 10:22:18 PM",
+      "url": "https://TheDubsGrumble.github.io/Fight_dubly-wubbly-raid-_yay_-_-_-GO/?report=20260502-205149-d4z0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260411-205836-ygdx",
       "title": "Dub Grumble",
       "commanders": [
